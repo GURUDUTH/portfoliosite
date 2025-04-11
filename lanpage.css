@@ -1,0 +1,28 @@
+
+.top-space {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.my-name{
+    color: #FEFCFB;
+    font-size: 40px;
+}
+
+.button-style {
+    color: #of1419;
+	border: 1px solid #cfd9de;
+	border-radius: 20px;
+	background: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-weight: bold;
+    cursor: pointer;
+    margin-top: 6px;
+}
