@@ -11,13 +11,15 @@
 .my-name{
     color: #FEFCFB;
     font-size: 40px;
+    text-shadow: 5px 5px 5px #55286F;
+    font-family: 'Poppins', sans-serif;
 }
 
 .button-style {
     color: #FEFCFB;
 	border: 1px solid #FEFCFB;
 	border-radius: 20px;
-	background: #7B2CBF;
+	background: #55286F;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-left: 20px;
@@ -26,3 +28,7 @@
     cursor: pointer;
     margin-top: 6px;
 }
+
+
+#7B2CBF
+#55286F
