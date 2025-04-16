@@ -29,6 +29,20 @@
     margin-top: 6px;
 }
 
+.profile-intro {
+    padding-left: 100px;
 
+}
+
+#profile-pic {
+    border: 2px solid #FEFCFB;
+    border-radius: 20%;
+    width: 150px;
+    margin-top: 50px;
+}
+
+
+/* 
 #7B2CBF
 #55286F
+*/
