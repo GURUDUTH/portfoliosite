@@ -31,6 +31,8 @@
 
 .profile-intro {
     padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
 
 }
 
@@ -38,6 +40,13 @@
     border: 2px solid #FEFCFB;
     border-radius: 20%;
     width: 150px;
+    margin-top: 50px;
+}
+
+#intro-box {
+    color: #FEFCFB;
+    border: 2px solid #FEFCFB;
+    margin-right: 100px;
     margin-top: 50px;
 }
 
