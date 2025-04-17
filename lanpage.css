@@ -29,6 +29,12 @@
     margin-top: 6px;
 }
 
+.button-style:hover {
+    background: #FEFCFB;
+    color: #161A1D;
+    border: 1px solid #161A1D;
+}
+
 .profile-intro {
     padding-left: 100px;
     display: flex;
