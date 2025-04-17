@@ -38,16 +38,18 @@
 
 #profile-pic {
     border: 2px solid #FEFCFB;
-    border-radius: 20%;
-    width: 150px;
+    width: 165px;
     margin-top: 50px;
+    box-shadow: 10px 10px 10px #55286F;
 }
 
 #intro-box {
+    font-family: 'Poppins', sans-serif;
     color: #FEFCFB;
     border: 2px solid #FEFCFB;
     margin-right: 100px;
     margin-top: 50px;
+    box-shadow: 10px 10px 10px #55286F;
 }
 
 
