@@ -35,29 +35,48 @@
     border: 1px solid #161A1D;
 }
 
-.profile-intro {
+/* .profile-intro {
     padding-left: 100px;
     display: flex;
     justify-content: space-between;
 
-}
+} */
 
-#profile-pic {
+/* #profile-pic {
     border: 2px solid #FEFCFB;
     width: 165px;
     margin-top: 50px;
     box-shadow: 10px 10px 10px #55286F;
-}
+} */
 
 #intro-box {
     font-family: 'Poppins', sans-serif;
     color: #FEFCFB;
     border: 2px solid #FEFCFB;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 50px;
     box-shadow: 10px 10px 10px #55286F;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
+.my-project-heading {
+    color: #FEFCFB;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px #55286F;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 100px;
+}
+
+.project-1 {
+    border: 2px solid #FEFCFB;
+    margin-top: 40px;
+    padding: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 10px 10px 10px #55286F;
+}
 
 /* 
 #7B2CBF
