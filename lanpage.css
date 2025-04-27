@@ -78,6 +78,34 @@
     box-shadow: 10px 10px 10px #55286F;
 }
 
+.tooltech {
+    border: 2px solid #FEFCFB;
+    margin-top: 40px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    box-shadow: 10px 10px 10px #55286F;
+}
+
+.subheading1 {
+    font-family: 'Poppins', sans-serif;
+    color: #FEFCFB;
+    margin-top: 0px;
+    margin-bottom: -5px;
+}
+
+.subheading2 {
+    font-family: 'Poppins', sans-serif;
+    color: #FEFCFB;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.atlasvec {
+    color: #00ED64;
+    font-size: 30px;
+}
+
 /* 
 #7B2CBF
 #55286F
